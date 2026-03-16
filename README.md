@@ -15,11 +15,10 @@ To ensure security and provide support, this tool requires a **Free Activation K
 ### How to Activate:
 1. Download and run the tool.
 2. Join our official Discord community.
-3. Follow the instructions in the `#activation` channel to get your key for free.
+3. Follow the instructions in the `#tickek` channel to get your key for free.
 
 ## 💬 Community & Support
 Join our Discord server for updates, troubleshooting, and your free activation:
 👉 **[Join Discord Server](https://discord.gg/4aZqbuRNbc)**
 
 ---
-*Note: This tool is for educational and research purposes only.*
