@@ -6,7 +6,6 @@ A high-speed FiveM resource dumper and file extractor designed for efficient dat
 A powerful and high-speed tool designed for extracting and dumping resources from FiveM. 
 
 ## 🛠 Features
-* **Fast Extraction:** Optimized for quick data retrieval.
 * **Lightweight:** Minimal system resource usage.
 * **User-Friendly:** Simple interface for seamless operation.
 
